@@ -1,7 +1,0 @@
-rs_port.c:19:15:getRsMasterState	4	static
-rs_port.c:24:6:setRsMasterState	16	static
-rs_port.c:29:6:rsByteReceived	16	static
-rs_port.c:65:6:rsTimerExpired	8	static
-rs_port.c:86:6:rsStartPolling	4	static
-rs_port.c:93:9:rsReceiveMessage	24	static
-rs_port.c:123:6:rsSendMessage	16	static

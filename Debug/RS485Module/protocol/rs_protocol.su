@@ -1,7 +1,0 @@
-rs_protocol.c:16:6:rsCreatePoolingMessage	32	static
-rs_protocol.c:35:6:rsCreateSwitchMessage	32	static
-rs_protocol.c:57:10:rsCRC16_ccitt	24	static
-rs_protocol.c:72:7:getAmperage	32	static
-rs_protocol.c:87:7:getVoltage	32	static
-rs_protocol.c:103:12:getCommandId	16	static
-rs_protocol.c:108:9:getDeviceId	16	static
