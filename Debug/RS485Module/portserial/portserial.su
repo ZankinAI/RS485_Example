@@ -1,0 +1,6 @@
+portserial.c:22:6:RS_SetUartModule	16	static
+portserial.c:34:6:portSerialEnableReceive	16	static
+portserial.c:51:6:portSerialPutByte	16	static
+portserial.c:63:6:portSerialPutBytes	16	static
+portserial.c:74:6:portSerialGetByte	16	static
+portserial.c:88:6:HAL_UART_RxCpltCallback	16	static

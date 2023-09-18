@@ -1,0 +1,5 @@
+rs.c:25:6:rs_loop	8	static
+rs.c:71:6:parseMessage	16	static
+rs.c:108:6:devicesInit	16	static
+rs.c:116:6:sendPoolingMessageToDevice	16	static
+rs.c:122:6:sendSwitchMessageToDevice	16	static

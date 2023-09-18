@@ -1,0 +1,9 @@
+port_timer.c:27:6:RS_SetTimerModule	16	static
+port_timer.c:33:6:rsTimerInit	16	static
+port_timer.c:43:6:rsTimerEnable	8	static
+port_timer.c:55:6:rsTimerDisable	8	static
+port_timer.c:61:6:RS_SetPollingTimerModule	16	static
+port_timer.c:67:6:rsPollingTimerInit	16	static
+port_timer.c:77:6:rsPollingTimerEnable	8	static
+port_timer.c:89:6:rsPollingTimerDisable	8	static
+port_timer.c:98:6:HAL_TIM_PeriodElapsedCallback	16	static
